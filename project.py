@@ -1,4 +1,4 @@
- import scipy
+import scipy
 import scipy.signal
 import matplotlib.pyplot as plt
 from math import e, sin, pi, cos
